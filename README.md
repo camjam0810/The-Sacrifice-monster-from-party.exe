@@ -1,5 +1,5 @@
 # The-Sacrifice-monster-from-party.exe
-This is how you can add the Sacrifice monster from party.exe into your Roblox game.
+You can add the Sacrifice monster from party.exe into your Roblox game.
 
 How to set it up:
 https://www.youtube.com/watch?v=ZICddyMiGso
