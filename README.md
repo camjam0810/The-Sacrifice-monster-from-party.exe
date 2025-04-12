@@ -1,5 +1,7 @@
 # The-Sacrifice-monster-from-party.exe
 You can add the Sacrifice monster from party.exe into your Roblox game.
+⚠️This is not the original model from 8DSK I don't use any executors, this is a remake!⚠️
+
 
 How to set it up:
 https://www.youtube.com/watch?v=ZICddyMiGso
